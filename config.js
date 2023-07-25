@@ -22,11 +22,11 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.botname = "carzy bot" 
+global.author = "Menu wa"  
+global.packname = "𝚌𝚛𝚊𝚣𝚢 𝚖𝚎𝚗𝚞𝚠𝚊 ✯𝘽𝙊𝙏"  
 global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
+global.footer = "©\t" + "𝚖𝚎𝚗𝚞𝚛𝚊 𝚐𝚊𝚢𝚊𝚜𝚑𝚊𝚗"
 global.prefa = ['-'] // single prefix
 global.themeemoji = "🎐"
 global.autoBio = "$mode : $time ⌚ || $date 🗓️ || $botname" // Leave it as it is if you didn't understood!
@@ -34,9 +34,9 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
-global.ytname = "YT: Enter Your Channel Name Here"
+global.ownername = "𝙼𝙴𝙽𝚄𝚁𝙰"    
+global.ownernumber = ["949196619"]
+global.ytname = "YT: Sl menuwa"
 global.continent = "Asia" // your continent name 
 global.region = "Enter Your Country Name Here"
 global.state = "Enter Your State Name Here" // your state name
